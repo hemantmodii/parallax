@@ -3,6 +3,7 @@
   padding: 0;
   box-sizing: border-box;
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  text-decoration: none;
 }
 
 header {
@@ -90,5 +91,4 @@ header nav:hover > a:not(:hover) {
 
 .about h1 {
   font-size: 40px;
-
 }
